@@ -1,5 +1,5 @@
 {
-  "name": "packagetest",
+  "name": "@noenunez/packagetest",
   "version": "1.0.0",
   "description": "prueba de publicacion de paquete",
   "main": "index.js",
